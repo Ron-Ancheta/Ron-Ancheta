@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### 🛠️ Skills & Tools
+![Skill1](https://img.shields.io/badge/Skill1-Description-color)
+![Skill2](https://img.shields.io/badge/Skill2-Description-color)
+
