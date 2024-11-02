@@ -11,8 +11,7 @@ I'm Ron Ancheta — a Web Designer, Frontend Developer who enjoys designing, lik
 - ⚡ Fun fact: I love going out to eat and trying out new foods
 -->
 
-### 📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=default)
+
 
 
 
