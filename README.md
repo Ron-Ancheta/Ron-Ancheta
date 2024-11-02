@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-<!--
 I'm Ron Ancheta — a Web Designer, Frontend Developer who enjoys designing, like building UI/UX experiences.
 
 - 🔭 I’m currently working on a Personal Project
@@ -9,7 +8,7 @@ I'm Ron Ancheta — a Web Designer, Frontend Developer who enjoys designing, lik
 - 📫 How to reach me: ronrheykleancheta@yahoo.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love going out to eat and trying out new foods
--->
+
 
 
 
