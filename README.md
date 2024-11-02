@@ -1,21 +1,18 @@
 ## Hi there 👋
 
 <!--
-**Ron-Ancheta/Ron-Ancheta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Ron Ancheta — a Web Designer, Frontend Developer who enjoys designing, like building UI/UX experiences.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on a Personal Project
+- 🌱 I’m currently learning more about Designing a Website 
+- 💬 Ask me about anything and I'll be willing help to the best of my capablities
+- 📫 How to reach me: ronrheykleancheta@yahoo.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I love going out to eat and trying out new foods
 -->
 
-### 🛠️ Skills & Tools
-![Skill1](https://img.shields.io/badge/Skill1-Description-color)
-![Skill2](https://img.shields.io/badge/Skill2-Description-color)
+### 📈 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=default)
+
+
 
